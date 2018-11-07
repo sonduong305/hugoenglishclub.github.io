@@ -40,13 +40,13 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:            default
 facebook:           HUGOclub 
-instagram:          default
-github:             default
+instagram:          None 
+github:             None
 
 # personal
-location:           Los Angeles, CA
+location:           Da Nang City 
 phone:              310-318-5555
-email:              info@default.com
+email:              hugoclub.dut@gmail.com 
 
 # Gems
 gems:
