@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              HUGO's HOME 
+bio:                'This belongs to Hugo English Club'
+description:        "Where we share our ideas"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -39,7 +39,7 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           default
+facebook:           https://facebook.com/HUGOclub 
 instagram:          default
 github:             default
 
