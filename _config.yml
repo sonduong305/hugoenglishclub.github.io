@@ -34,7 +34,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   https-hugoenglishclub-github-io
+disqus_shortname:   https-hugoenglishclub-github-io .
 
 # Social
 analytics-id:       "default"
