@@ -6,6 +6,7 @@ excerpt: "Khi Đà Nẵng là nơi mà bạn lớn lên, có thể đến một 
 image: "/images/pic02.jpg"
 comments: true
 ---
+
 Khi Đà Nẵng là nơi mà bạn lớn lên, có thể đến một ngày bạn sẽ nhận ra: "Thì ra nơi này nhỏ đến thế". Từ nghĩa đen cho đến nghĩa bóng. Tôi nói thật đấy.
 
 Từ nhỏ đến lớn hầu như tôi ít khi nào đi ra khỏi nhà, cho đến khi học đại học cũng chỉ khá lên hơn một chút. Ai cũng bảo, phải đi thì mới biết thế gian rộng lớn chừng nào. Cơ mà, câu chuyện đi từ nhà đến trường của tôi hơi buồn cười một chút. Tôi vốn đi buýt đến trường, một phần vì khoảng cách xa, phần khác vì bố mẹ bảo đi cho an toàn. Thời gian mỗi lần đi buýt đối với tôi cứ như thể mấy thế kỷ trôi qua, mệt mỏi hết sức. Vậy mà một người bạn của tôi học trong HCM từng nói rằng: "Mày ơi, tao mất tận ba tiếng để kiếm một cái địa chỉ nhà chỉ ở quận Thủ Đức trong này lận mày ạ", thế là tôi lại phì cười và đổi ngay suy nghĩ: "Quớ làng, mình mất có 30 phút đi buýt tới trường mà đi qua hẳn ba quận (Hải Châu, Thanh Khê, Liên Chiểu) luôn á".
