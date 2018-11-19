@@ -20,3 +20,5 @@ Lớp đại học của tôi chỉ có 6 người Đà Nẵng, đoán xem, chú
 <span class="image right"><img src="{{ "/images/img_post/191118/03.jpg" | absolute_url }}" alt="" /></span>
  
 Sau này, tôi làm quen được với những người bạn mới, tôi lại tiếp tục nhận ra, con người đều có một sự kết nối với nhau thông qua một điều gì đó, thường là qua một người nào đấy. Nhiều khi tôi còn nghĩ là, có lẽ không cần nói về người yêu thì mới bảo là định mệnh, mà vốn chúng ta gặp gỡ được bất cứ ai cũng đã là một cái duyên số rồi. Đà Nẵng làm tôi hết lần này đến lần khác phải thốt lên rằng: "Trái Đất không hề nhỏ, chỉ có Đà Nẵng mới nhỏ mà thôi". Nhưng mà, nó cũng làm bạn thấy được rằng, nhiều khi bạn đã vô tình để vụt mất một mối quan hệ nào đấy, như tôi và cậu bạn tiểu học kia chẳng hạn. Bỗng dưng cắt đứt liên lạc rồi bây giờ lại tình cờ gặp lại được. Có thể sau này lại tiếp tục mất liên lạc chăng? Con người là vậy, bạn gặp được những người bạn mới, rồi lại sẽ quên mất mình từng có người bạn X,Y thế này thế kia. Có thể chúng ta sẽ gặp lại. Rồi chúng ta lại lướt qua nhau.
+
+-CCCT- 
