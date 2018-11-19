@@ -3,7 +3,7 @@ layout: post
 title:  "Thẩn thơ trên xe buýt: Chuyện số 1"
 date:   2018-11-19
 excerpt: 'Khi Đà Nẵng là nơi mà bạn lớn lên, có thể đến một ngày bạn sẽ nhận ra: "Thì ra nơi này nhỏ đến thế"...'
-image: "/images/pic02.jpg"
+image: "/images/img_post/191118/01.jpg"
 comments: true
 ---
 
