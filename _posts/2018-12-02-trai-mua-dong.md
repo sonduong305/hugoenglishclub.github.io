@@ -4,7 +4,7 @@ title:  "Trại mùa Đông"
 date:   2018-12-2
 excerpt: 'Chuyện đi trại là chuyện của những dòng tâm sự giữa 2 người nào đó, hoặc là 2 người nào đó khác, trong khoảnh khắc chung nhịp điệu, hoà cùng nhịp đập, trò chuyện với nhau vài ba câu to nhỏ, gieo rắc những gì mà tâm hồn sâu ẩn họ muốn giãi bày.'
 image: "/images/img_post/021218/01.jpg"
-categories: [chợt thoáng qua]
+categories: [Humans of Hugo]
 comments: true
 ---
 
