@@ -22,12 +22,10 @@ Chuyện đi trại là chuyện của những dòng tâm sự giữa 2 người
 
 <span class="image fit"><img src="{{ "/images/img_post/021218/04.jpg" | absolute_url }}" alt="" /></span>
 
-<div class="box">
 Một mùa trại đang về ngay trước cửa
 Tôi háo hức y hệt những ngày xưa
 Trại năm nay thêm bao người bạn mới
 Góp chút vui vang tận mãi chân trời.
-</div>
 
 Nguyện chúc cho Trại Mùa Đông năm nay được thành công tốt đẹp, chúc cho Hugoer có những kỉ niệm đẹp đẽ bên nhau, bên gia đình nhỏ yêu thương này.
 Cả Hugo đang chạy đà và cất cánh...
