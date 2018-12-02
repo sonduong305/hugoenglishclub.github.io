@@ -21,11 +21,15 @@ Trại là tâm huyết của cả một thế hệ dựng xây. Những điệu
 Chuyện đi trại là chuyện của những dòng tâm sự giữa 2 người nào đó, hoặc là 2 người nào đó khác, trong khoảnh khắc chung nhịp điệu, hoà cùng nhịp đập, trò chuyện với nhau vài ba câu to nhỏ, gieo rắc những gì mà tâm hồn sâu ẩn họ muốn giãi bày. Và cứ như thế, họ từ những người xa lạ, rẽ ngang cuộc đời nhau, tạo ra đoạn đường gấp khúc nhiều hình thù, thêm thú vị, thêm đẹp cho bức tranh toàn cảnh. Dẫu tất cả họ, đều quay về con đường chính, và có thể không cắt ngang qua nhau thêm một lần nữa, nhưng những kí ức về nhau, về Trại Mùa Đông năm ấy, sẽ chẳng bao giờ phai nhoà.
 
 <span class="image fit"><img src="{{ "/images/img_post/021218/04.jpg" | absolute_url }}" alt="" /></span>
-
+<div class="box">
 Một mùa trại đang về ngay trước cửa
+
 Tôi háo hức y hệt những ngày xưa
+
 Trại năm nay thêm bao người bạn mới
+
 Góp chút vui vang tận mãi chân trời.
+</div>
 
 Nguyện chúc cho Trại Mùa Đông năm nay được thành công tốt đẹp, chúc cho Hugoer có những kỉ niệm đẹp đẽ bên nhau, bên gia đình nhỏ yêu thương này.
 Cả Hugo đang chạy đà và cất cánh...
