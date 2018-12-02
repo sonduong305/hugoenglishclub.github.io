@@ -32,7 +32,8 @@ Góp chút vui vang tận mãi chân trời.
 </div>
 
 Nguyện chúc cho Trại Mùa Đông năm nay được thành công tốt đẹp, chúc cho Hugoer có những kỉ niệm đẹp đẽ bên nhau, bên gia đình nhỏ yêu thương này.
-Cả Hugo đang chạy đà và cất cánh...
+
+Cả Hugo đang chạy đà và cất cánh...<br/>
 Light Up Your Fire!!!
 
 -Hoa Dâm Bụt-
