@@ -24,6 +24,7 @@ Trại của Hugo thật sự tuyệt vời, và đối với một đứa từ 
 <span class="image left"><img src="{{ "/images/img_post/101218/07.jpg" | absolute_url }}" alt="" /></span>
 8. Staff. Những con người chạy đôn chạy đáo, lúc nào cũng nghĩ cho con dân trong Hugo. Nhìn mọi người chuẩn bị từng chút một để tạo được một buổi trại thế này, thật sự cảm thấy thực sự kỳ công. Nghe staff tâm sự tuổi hồng, "Các bạn biết không, tụi mình coi dự báo thời tiết trước 20 ngày hắn kêu mưa, coi trước 1 tuần hắn cũng kêu mưa, mà coi 1 ngày trước khi đi trại thì hắn báo trời bão", nghe mới biết, mọi người đã vất vả thế nào. Cảm ơn mọi người nhiều nhé. Vì đã góp phần không nhỏ để làm cho trại Hugo tuyệt vời thật sự.
 
+
 Thật ra thì, tôi cũng muốn viết mấy dòng cho trại năm nay. Khoảnh khắc lửa trại bắn lên những tia than sáng lên như pháo hoa, thật sự đẹp vô cùng (Không biết có ai lợi dụng thời cơ ngay lúc ấy để đứng cạnh crush không nhỉ, vì nó lãng mạn thật sự đó). Mọi thời điểm ở trại đều thật sự quý giá, mỗi năm là một cảm xúc khác nhau, cũng như là hình ảnh ta nhìn thấy được cũng khác nhau qua từng năm. Nhìn từ lều ra ngoài lửa trại đã tắt, trong lòng cũng hụt hẫng phần nào. Hy vọng rằng, trại Hugo trong tương lại còn thành công hơn thế này nhiều hơn nữa, lửa nhiệt huyết mà tất cả các thành viên mang lại cũng lớn lao hơn nữa, và mọi người đều đọng lại trong mình những kỷ niệm không-gì-có-thể-đổi-được cùng nhau.
 Cảm ơn Hugo vì mọi thứ.
 <span class="image fit"><img src="{{ "/images/img_post/101218/08.jpg" | absolute_url }}" alt="" /></span>
