@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Về Hugo Staff"
-date:   2018-1-17
+date:   2019-1-17
 excerpt: 'Ở tuổi 19, chàng trai ấy đã có một giấc mơ, nói đúng hơn là một ao ước, nhỏ bé thôi nhưng đẹp đẽ. Ước mơ một ngày nào đó, được trở thành staff của Hugo.'
 image: "/images/img_post/170119/00.jpg"
 categories: [Humans of Hugo]
